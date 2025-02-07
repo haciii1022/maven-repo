@@ -3,14 +3,10 @@
   <groupId>com.github.mirror</groupId>
   <artifactId>cache-test</artifactId>
   <versioning>
-    <release>0.0.16</release>
+    <release>0.0.1</release>
     <versions>
-      <version>0.0.16</version>
+      <version>0.0.1</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20250207065855</lastUpdated>
-=======
-    <lastUpdated>20250207065345</lastUpdated>
->>>>>>> 6cd3d7873cde9fa77a3a0a39e03a99b75a4d01c2
+    <lastUpdated>20250207070534</lastUpdated>
   </versioning>
 </metadata>
